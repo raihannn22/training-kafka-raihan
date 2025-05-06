@@ -1,0 +1,7 @@
+com\activity\KafkaSchemaRegistryApplication.class
+com\activity\dto\User.class
+com\activity\dto\User$Builder.class
+com\activity\dto\Employee$Builder.class
+com\activity\dto\Employee.class
+com\activity\entity\User.class
+com\activity\config\KafkaConfig.class

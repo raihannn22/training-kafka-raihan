@@ -1,0 +1,10 @@
+{
+  "namespace": "com.activity.dto",
+  "type": "record",
+  "name": "User",
+  "fields": [
+    { "name": "id", "type": "long" },
+    { "name": "name", "type": "string" },
+    { "name": "email", "type": "string" }
+  ]
+}
